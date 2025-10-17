@@ -9,6 +9,7 @@ Blue Car=false
 Blue Controller (1)=false
 Blue Car (1)=false
 walkable armature=true
-Water inractive 300x300=true
+Water inractive 300x300=false
 2=true
 postprossesing=true
+
