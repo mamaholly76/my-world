@@ -1,6 +1,6 @@
 Live Events (Computer monitor screen )=true
 Home Theater (Pool side TV )=true
-Home Theater (Cabin TV )=false
+Home Theater (Cabin TV )=true
 Vehicles=true
 Trees=true
 Portal system =true
@@ -12,6 +12,7 @@ walkable armature=true
 Water inractive 300x300=true
 2=true
 postprossesing=true
+
 
 
 
